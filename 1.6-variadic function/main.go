@@ -1,0 +1,1 @@
+package __6_variadic_function
