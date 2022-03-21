@@ -1,1 +1,1 @@
-package __5_comparable_types
+package main
