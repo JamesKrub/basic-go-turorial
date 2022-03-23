@@ -1,26 +1,29 @@
 package main
 
 func main() {
-	// Map
-	// var wordCount map[string]int
-	// wordCount = make(map[string]int)
-	// wordCount := make(map[string]int)
-	// fmt.Println(wordCount)
-	// wordCount["hello"] = 1
-	// wordCount["world"] = 2
-	// fmt.Println(wordCount)
-	// fmt.Println(wordCount["hello"])
-	// fmt.Println(wordCount["world"])
-	// delete(wordCount, "world")
-	// fmt.Println(wordCount)
-	// fmt.Println(wordCount["world"])
-	// wordCount := map[string]int{
-	// 	"hello": 1,
-	// 	"world": 2,
-	// }
-	// fmt.Println(wordCount)
-	// fmt.Println(wordCount["hello"])
-	// fmt.Println(wordCount["world"])
+	//Map
+	//var wordCount map[string]int
+	//wordCount = make(map[string]int)
+
+	//wordCount := make(map[string]int)
+
+	//fmt.Println(wordCount)
+	//wordCount["hello"] = 1
+	//wordCount["world"] = 2
+	//fmt.Println(wordCount)
+	//fmt.Println(wordCount["hello"])
+	//fmt.Println(wordCount["world"])
+	//delete(wordCount, "world")
+	//fmt.Println(wordCount)
+	//fmt.Println(wordCount["world"])
+
+	//wordCount := map[string]int{
+	//	"hello": 1,
+	//	"world": 2,
+	//}
+	//fmt.Println(wordCount)
+	//fmt.Println(wordCount["hello"])
+	//fmt.Println(wordCount["world"])
 
 	// helloCount, exist := wordCount["hello"]
 	// if exist {

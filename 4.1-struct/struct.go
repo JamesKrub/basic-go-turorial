@@ -41,6 +41,7 @@ func main() {
 	// fmt.Println("Lastname:", profile.Lastname)
 	// fmt.Println("Age:", profile.Age)
 	// fmt.Println("EncryptedPassword:", profile.EncryptedPassword)
+
 	// profile := Profile{
 	// 	Username:  "por",
 	// 	Firstname: "Weerasak",

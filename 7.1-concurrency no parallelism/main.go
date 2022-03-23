@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-//  go run guide.go google.com facebook.com youtube.com twitter.com go.dev yahoo.com instagram.com
+//  go run main.go google.com facebook.com youtube.com twitter.com go.dev yahoo.com instagram.com
 
 func main() {
 	start := time.Now()
