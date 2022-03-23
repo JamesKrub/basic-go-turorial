@@ -15,19 +15,20 @@ func add(a int, b int) int {
 }
 
 func main() {
-	//title("Wat")
-	//title("Nine")
-	//num := add(10, 20)
-	//
-	//func(num int) {
-	//	num = 50
-	//	fmt.Println(num)
-	//}(num)
-	//
-	//{
-	//	num := 100
-	//	fmt.Println(num)
-	//}
-	//
-	//fmt.Println(num)
+	title("Wat")
+	title("Nine")
+
+	num := add(10, 20)
+
+	func(num int) {
+		num = 50
+		fmt.Println(num)
+	}(num)
+
+	{
+		num := 100
+		fmt.Println(num)
+	}
+
+	fmt.Println(num)
 }
